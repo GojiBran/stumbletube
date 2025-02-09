@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         StumbleChat YouTube Enhancer
-// @namespace    http://tampermonkey.net/
+// @namespace    StumbleTube
 // @version      1.0
 // @description  A simplified script to enhance StumbleChat with message based YouTube playback.
 // @author       Goji
