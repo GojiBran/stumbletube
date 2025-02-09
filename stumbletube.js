@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         StumbleChat YouTube Enhancer
+// @name         StumbleTube
 // @namespace    StumbleTube
 // @version      1.0
-// @description  A simplified script to enhance StumbleChat with message based YouTube playback.
+// @description  Play youtube videos from the chat box on StumbleChat
 // @author       Goji
 // @match        https://stumblechat.com/room/*
 // ==/UserScript==
